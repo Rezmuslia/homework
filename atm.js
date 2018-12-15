@@ -12,7 +12,7 @@ const atm = {
     }
 }
 
-atm.credit(1000);
+atm.credit(9000);
 console.log(atm.money);
 
 
